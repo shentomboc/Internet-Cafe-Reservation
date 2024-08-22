@@ -1,3 +1,4 @@
-# About my Library Management System
-It uses .NET Programming Language and uses MySQL as database
+# About my Internet Cafe Reservation System
+It uses Python Programming Language
+It was my project in subject Data Structures and Algorithms
 
